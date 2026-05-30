@@ -8,6 +8,7 @@
 - 📫 আমার সাথে যোগাযোগ করতে পারেন নিচের লিংকগুলো থেকে:
 
 ### 🔗 সোশ্যাল মিডিয়া ও যোগাযোগ
+- [ফেসবুক পেজ](https://www.facebook.com/NiloyNihonfb)
 - [ফেসবুক গ্রুপ](https://www.facebook.com/groups/1186494833272042/)
 - [ইউটিউব](https://www.youtube.com/@niloynihon)
 
