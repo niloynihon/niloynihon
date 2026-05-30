@@ -1,8 +1,8 @@
-# 👋 Hello! I'm Niloy Nihon
+ওই# 👋 Hello! I'm Niloy Nihon
 
 I'm a passionate learner. Currently, I'm diving into programming and studying the Japanese language. Welcome to my GitHub profile!
 
-### 🛠 About Me
+### 📄 About Me
 - 🔭 I'm learning Web Development.
 - 💬 I'm studying Japanese (Nihongo).
 - 📫 You can reach out to me via the links below:
