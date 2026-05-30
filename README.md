@@ -1,20 +1,20 @@
-# 👋 হ্যালো! আমি নিলয় নিহন
+# 👋 Hello! I'm Niloy Nihon
 
-আমি একজন লার্নার। বর্তমানে আমি প্রোগ্রামিং এবং জাপানি ভাষা শিখছি। আমার গিটহাব প্রোফাইলে আপনাকে স্বাগতম!
+I'm a passionate learner. Currently, I'm diving into programming and studying the Japanese language. Welcome to my GitHub profile!
 
-### 🛠 আমার সম্পর্কে
-- 🔭 আমি ওয়েব ডেভেলপমেন্ট শিখছি।
-- 💬 আমি জাপানি ভাষা নিয়ে পড়াশোনা করছি।
-- 📫 আমার সাথে যোগাযোগ করতে পারেন নিচের লিংকগুলো থেকে:
+### 🛠 About Me
+- 🔭 I'm learning Web Development.
+- 💬 I'm studying Japanese (Nihongo).
+- 📫 You can reach out to me via the links below:
 
-### 🔗 সোশ্যাল মিডিয়া ও যোগাযোগ
-- [ফেসবুক পেজ](https://www.facebook.com/NiloyNihonfb)
-- [ফেসবুক গ্রুপ](https://www.facebook.com/groups/1186494833272042/)
-- [ইউটিউব](https://www.youtube.com/@niloynihon)
+### 🔗 Social Media & Contact
+- [Facebook Page](https://www.facebook.com/NiloyNihonfb)
+- [Facebook Group](https://www.facebook.com/groups/1186494833272042/)
+- [YouTube](https://www.youtube.com/@niloynihon)
 
-### 📈 বর্তমানে যা শিখছি:
-- HTML, CSS এবং JavaScript
-- জাপানি ভাষা (Nihongo)
+### 📈 Currently Learning
+- HTML, CSS, and JavaScript
+- Japanese (Nihongo)
 
 ---
-*কোডিং এবং নতুন কিছু শেখার আগ্রহ নিয়ে আমি কাজ করছি।*
+*I'm working on my skills with a passion for coding and continuous learning.*
