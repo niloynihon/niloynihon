@@ -1,13 +1,19 @@
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
+# 👋 হ্যালো! আমি নিলয় নিহন
 
-# Access
-$ cd profile-readme-generator
+আমি একজন লার্নার। বর্তমানে আমি প্রোগ্রামিং এবং জাপানি ভাষা শিখছি। আমার গিটহাব প্রোফাইলে আপনাকে স্বাগতম!
 
-# Install dependencies
-$ yarn
+### 🛠 আমার সম্পর্কে
+- 🔭 আমি ওয়েব ডেভেলপমেন্ট শিখছি।
+- 💬 আমি জাপানি ভাষা নিয়ে পড়াশোনা করছি।
+- 📫 আমার সাথে যোগাযোগ করতে পারেন নিচের লিংকগুলো থেকে:
 
-# Run the project
-$ yarn dev
+### 🔗 সোশ্যাল মিডিয়া ও যোগাযোগ
+- [ফেসবুক গ্রুপ](https://www.facebook.com/groups/1186494833272042/)
+- [ইউটিউব](https://www.youtube.com/@niloynihon)
 
-# The server will initialize in the <http://localhost:3000>
+### 📈 বর্তমানে যা শিখছি:
+- HTML, CSS এবং JavaScript
+- জাপানি ভাষা (Nihongo)
+
+---
+*কোডিং এবং নতুন কিছু শেখার আগ্রহ নিয়ে আমি কাজ করছি।*
