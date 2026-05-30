@@ -1,4 +1,4 @@
-ওই# 👋 Hello! I'm Niloy Nihon
+### 👋 Hello! I'm Niloy Nihon
 
 I'm a passionate learner. Currently, I'm diving into programming and studying the Japanese language. Welcome to my GitHub profile!
 
